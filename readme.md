@@ -1,4 +1,4 @@
-# PHP Redis Migration Sample Project
+# Redis Migration Sample Project
 
 This is a simple PHP project that demonstrates how to use Docker Compose to set up a development environment with PHP 8.2 and Redis, utilizing the Predis package for Redis interactions.
 
